@@ -1,16 +1,39 @@
-# weather_v3
+# 🌦️ Flutter Weather App
 
-A new Flutter project.
+A Flutter-based weather application that provides **real-time hourly forecasts** with a clean and modern UI.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+✅ Detects **current location** automatically using GPS  
+✅ **Search** weather by city or country  
+✅ Integrated with **WeatherAPI** for accurate data  
+✅ Uses **Cubit (Bloc)** for state management  
+✅ Displays **hourly temperature** and **condition icons**  
+✅ Responsive and dynamic UI updates based on API data  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧠 Learning Highlights
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was a great opportunity to practice and strengthen:
+- 🌐 Working with **REST APIs**
+- 📍 Implementing **Geolocation services**
+- 🧩 Applying **Bloc pattern (Cubit)** for clean architecture
+- 🎨 Building **dynamic UI** based on live weather data
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| Flutter | UI Framework |
+| Dart | Programming Language |
+| Bloc (Cubit) | State Management |
+| WeatherAPI | Weather Data Provider |
+| Geolocator | Location Services |
+
+---
+
+## 📱 Screenshots
+![Screenshot_20251016-182147](https://github.com/user-attachments/assets/7d356e6d-3926-4f75-b803-dd69121334b9)
